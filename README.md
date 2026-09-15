@@ -26,3 +26,6 @@ Static, GitHub Pages-ready website for Akram and Ashraf Nigeria Limited.
 
 ## GitHub Pages
 Upload the contents of this folder to the root of a GitHub repository. GitHub Pages can serve `index.html` directly.
+
+
+SEO files added: sitemap.xml and robots.txt. Each public page has a unique title, meta description, canonical URL, Open Graph metadata and Twitter card metadata. The thank-you page is marked noindex. The homepage includes basic RealEstateAgent structured data.
